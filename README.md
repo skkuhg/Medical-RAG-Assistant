@@ -114,8 +114,8 @@ Always consult qualified healthcare providers for medical concerns.
 
 1. **Clone and install dependencies:**
 ```bash
-git clone https://github.com/skkuhg/Medical-Rag-Assistant.git
-cd Medical-Rag-Assistant
+git clone https://github.com/skkuhg/Medical-RAG-Assistant.git
+cd Medical-RAG-Assistant
 npm install
 ```
 
