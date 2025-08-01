@@ -1,6 +1,6 @@
-# MedCanvas - AI-Powered Medical Assessment Platform
+# Medical RAG Assistant - AI-Powered Medical Assessment Platform
 
-A sophisticated web application that provides AI-powered medical assessments using real-time research data from Tavily Search and clinical reasoning from OpenAI GPT-4.
+A sophisticated web application that provides AI-powered medical assessments using RAG (Retrieval-Augmented Generation) with real-time research data from Tavily Search and clinical reasoning from OpenAI GPT-4.
 
 ## ⚠️ Important Disclaimer
 
@@ -80,5 +80,3 @@ vercel --prod
 ```
 
 **🤖 Generated with [Claude Code](https://claude.ai/code)**
-
-// END OF PROJECT
