@@ -353,10 +353,6 @@ The system integrates with reputable medical databases:
 
 **Educational Use License** - This project is intended for educational and research purposes only. Commercial use in clinical settings requires additional validation, compliance with medical regulations (HIPAA, GDPR, FDA), and appropriate medical oversight.
 
-## 🤖 Generated with Claude Code
-
-**Co-Authored-By: Claude <noreply@anthropic.com>**
-
 ---
 
 *For technical support, feature requests, or medical accuracy concerns, please open an issue on GitHub.*
